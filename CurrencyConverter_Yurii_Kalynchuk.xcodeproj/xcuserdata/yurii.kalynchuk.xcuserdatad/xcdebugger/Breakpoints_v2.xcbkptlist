@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "2A630C93-6E7B-4A49-91D8-51BC1C4088A2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "152CF3BC-08E3-42D7-B803-BEB44FA5D393"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverter_Yurii_Kalynchuk/ViewControllers/CurrencyConverterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "153"
+            endingLineNumber = "153"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F87E9A0-5CF4-4A76-AB8A-5B592E43B443"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/&#x421;urrencyConverter/CurrencyConverterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "didUpdateFrom(currency:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18B99213-7203-4FD4-AD74-9E8FD2552F29"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/&#x421;urrencyConverter/CurrencyConverterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "128"
+            endingLineNumber = "128"
+            landmarkName = "didUpdateTo(currency:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA94DC87-4B08-401D-B74E-A8B81B742781"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/&#x421;urrencyConverter/CurrencyConverterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "didUpdateFrom(amount:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86ABC6D7-6210-4EB1-8418-44B45BC1678F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverter_Yurii_Kalynchuk/Managers/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "request(fromURL:httpMethod:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48913311-5728-4A05-922D-2755C71F2F0E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/&#x421;urrencyConverter/CurrencyConverterPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "convertCurrencies(model:submited:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "834FDC9F-EC7F-485B-8146-8305DA4A4FCC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/&#x421;urrencyConverter/CurrencyConverterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "submitButtonAction(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B9C0FBB8-7A31-48E8-B84B-6B97A49D13D6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/&#x421;urrencyConverter/Cells/CurrencyExchangeTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "148"
+            endingLineNumber = "148"
+            landmarkName = "textFieldDidEndEditing(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B9C0FBB8-7A31-48E8-B84B-6B97A49D13D6 - 95b152f2bdb2ddec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverter_Yurii_Kalynchuk.CurrencyExchangeTableViewCell.textFieldDidEndEditing(__C.UITextField) -&gt; ()"
+                  moduleName = "CurrencyConverter_Yurii_Kalynchuk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yurii.kalynchuk/CurrencyConverter_Yurii_Kalynchuk/CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/%D0%A1urrencyConverter/Cells/CurrencyExchangeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "211">
+               </Location>
+               <Location
+                  uuid = "B9C0FBB8-7A31-48E8-B84B-6B97A49D13D6 - 95b152f2bdb2ddec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverter_Yurii_Kalynchuk.CurrencyExchangeTableViewCell.textFieldDidEndEditing(__C.UITextField) -&gt; ()"
+                  moduleName = "CurrencyConverter_Yurii_Kalynchuk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yurii.kalynchuk/CurrencyConverter_Yurii_Kalynchuk/CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/%D0%A1urrencyConverter/Cells/CurrencyExchangeTableViewCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "148"
+                  endingLineNumber = "148"
+                  offsetFromSymbolStart = "272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4325A822-9BBF-4E25-9AE0-F1C7548A84A6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/&#x421;urrencyConverter/Cells/CurrencyExchangeTableViewCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "141"
+            endingLineNumber = "141"
+            landmarkName = "textField(_:shouldChangeCharactersIn:replacementString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C5BDA0AA-714F-4E7C-8CEE-B2C6D187F17F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/&#x421;urrencyConverter/CurrencyConverterPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "convertCurrencies(model:submited:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "74449B56-698F-4B8E-902F-CBBA335076A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/&#x421;urrencyConverter/CurrencyConverterPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "getMyBalances()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A59468AB-91AD-4E39-BF79-53E78DE439A8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/&#x421;urrencyConverter/CurrencyConverterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "189"
+            endingLineNumber = "189"
+            landmarkName = "showConvertedCurencies(currency:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A59468AB-91AD-4E39-BF79-53E78DE439A8 - c3758a73fcd4862d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverter_Yurii_Kalynchuk.CurrencyConverterViewController.showConvertedCurencies(currency: CurrencyConverter_Yurii_Kalynchuk.CurrencyBalance) -&gt; ()"
+                  moduleName = "CurrencyConverter_Yurii_Kalynchuk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yurii.kalynchuk/CurrencyConverter_Yurii_Kalynchuk/CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/%D0%A1urrencyConverter/CurrencyConverterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "221">
+               </Location>
+               <Location
+                  uuid = "A59468AB-91AD-4E39-BF79-53E78DE439A8 - c3758a73fcd4862d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverter_Yurii_Kalynchuk.CurrencyConverterViewController.showConvertedCurencies(currency: CurrencyConverter_Yurii_Kalynchuk.CurrencyBalance) -&gt; ()"
+                  moduleName = "CurrencyConverter_Yurii_Kalynchuk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yurii.kalynchuk/CurrencyConverter_Yurii_Kalynchuk/CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/%D0%A1urrencyConverter/CurrencyConverterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "535">
+               </Location>
+               <Location
+                  uuid = "A59468AB-91AD-4E39-BF79-53E78DE439A8 - c28c464abad919c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CurrencyConverter_Yurii_Kalynchuk.SectionConfig) -&gt; Swift.Bool in CurrencyConverter_Yurii_Kalynchuk.CurrencyConverterViewController.showConvertedCurencies(currency: CurrencyConverter_Yurii_Kalynchuk.CurrencyBalance) -&gt; ()"
+                  moduleName = "CurrencyConverter_Yurii_Kalynchuk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yurii.kalynchuk/CurrencyConverter_Yurii_Kalynchuk/CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/%D0%A1urrencyConverter/CurrencyConverterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "187"
+                  endingLineNumber = "187"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "088D1A6D-4310-4BBA-9702-A3A4D1AB1120"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/&#x421;urrencyConverter/CurrencyConverterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "163"
+            endingLineNumber = "163"
+            landmarkName = "showBalances(balances:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "088D1A6D-4310-4BBA-9702-A3A4D1AB1120 - 5adcb7b67df798f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CurrencyConverter_Yurii_Kalynchuk.CurrencyConverterViewController.showBalances(balances: Swift.Array&lt;CurrencyConverter_Yurii_Kalynchuk.CurrencyBalance&gt;) -&gt; ()"
+                  moduleName = "CurrencyConverter_Yurii_Kalynchuk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yurii.kalynchuk/CurrencyConverter_Yurii_Kalynchuk/CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/%D0%A1urrencyConverter/CurrencyConverterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "088D1A6D-4310-4BBA-9702-A3A4D1AB1120 - 4431f17e6810ddf0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CurrencyConverter_Yurii_Kalynchuk.SectionConfig) -&gt; Swift.Bool in CurrencyConverter_Yurii_Kalynchuk.CurrencyConverterViewController.showBalances(balances: Swift.Array&lt;CurrencyConverter_Yurii_Kalynchuk.CurrencyBalance&gt;) -&gt; ()"
+                  moduleName = "CurrencyConverter_Yurii_Kalynchuk"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/yurii.kalynchuk/CurrencyConverter_Yurii_Kalynchuk/CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/%D0%A1urrencyConverter/CurrencyConverterViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "161"
+                  endingLineNumber = "161"
+                  offsetFromSymbolStart = "17">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CECD6F6B-624C-40ED-81E2-04DDB8782437"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverter_Yurii_Kalynchuk/Data/Services/CurrencyRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "submitConverting(from:to:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "276818C5-6D5D-4CBC-98E5-65E8691C36C4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverter_Yurii_Kalynchuk/Data/Services/CurrencyRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "74"
+            endingLineNumber = "74"
+            landmarkName = "submitConverting(from:to:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEDB35D4-A989-46AA-8482-C41B5FEED9EF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CurrencyConverter_Yurii_Kalynchuk/Presentation/ViewControllers/&#x421;urrencyConverter/CurrencyConverterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "configSections()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

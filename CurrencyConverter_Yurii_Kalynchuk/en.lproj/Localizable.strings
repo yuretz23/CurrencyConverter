@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  CurrencyConverter_Yurii_Kalynchuk
+
+  Created by Yurii Kalynchuk on 22.01.2023.
+  
+*/
+
+"currency_converter" = "currency converter";
+"my_balances" = "my balances";
+"currency_exchange" = "currency exchange";
+"sell" = "sell";
+"receive" = "receive";
+"submit" = "submit";
+"currency converted" = "currency converted";
+"converted_alert" = "You have converted %@ to %@. Commission fee - %.2f %@.";
